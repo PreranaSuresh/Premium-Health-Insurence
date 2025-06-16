@@ -1,7 +1,7 @@
 import streamlit as st
 from prediction_helper import predict
 
-st.title("Health Insurance Premium Prediction App")
+st.title("Health Insurance Premium Prediction Application using Streamlit Community Cloud")
 
 st.header("Input Details")
 
